@@ -9,4 +9,4 @@ flutter run
 
 ## Screenshot
 
-![UI Screenshot](Screenshot 2026-03-03.png)
+![UI Screenshot](Screenshot.png)
