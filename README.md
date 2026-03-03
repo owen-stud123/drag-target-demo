@@ -1,16 +1,12 @@
-# drag_target_demo
+# DragTarget Widget Demo
 
-A new Flutter project.
+A simple Flutter demo showing how the DragTarget widget receives data from Draggable widgets in a task management scenario.
 
-## Getting Started
+## How to Run
 
-This project is a starting point for a Flutter application.
+flutter pub get  
+flutter run  
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![UI Screenshot](Screenshot 2026-03-03 122332.png)
